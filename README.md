@@ -15,7 +15,7 @@ Constructed an author network for USA, Europe, and Australasia. Used gephi to co
 
 ### Statistical Modeling
 
-#### Linear Models
+#### Linear Model
 
 The response variable would be citation impact. Our principle interest is to test how the success rate (total number of citations) of a scholar behaves with the cross-disciplinary index. While the key predictor is χ<sub>i</sub>, we also added control factors to our model to account for the effects of co-variates. We included attributes like PageRank of scholar, total funding received etc. In addition we have used also use career age, a categorical
 variable, as one of the factor impacting the response variable. ε is the white noise.
